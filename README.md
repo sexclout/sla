@@ -34,6 +34,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 
-![snake gif](https://github.com/sexlout/sexlout/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sexlout/sla/blob/output/github-contribution-grid-snake.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?sexclout=sexclout&repo=sexclout&theme=react)](https://github.com/sexclout/sexclout).
