@@ -35,3 +35,5 @@
 </h1>
 
 ![snake gif](https://github.com/sexlout/sexlout/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?sexclout=sexclout&repo=sexclout&theme=react)](https://github.com/sexclout/sexclout).
